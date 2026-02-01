@@ -1,31 +1,34 @@
-# Netflix Exploratory Data Analysis (EDA)
+# Netflix Movies & TV Shows - Exploratory Data Analysis
 
-## Project Overview
+**Author:** Usaid Khan  
 
-Exploratory analysis of Netflix Movies and TV Shows dataset to discover trends in content types, genres, countries, ratings, and growth over time.
+## 📌 Project Overview
+This project explores Netflix's Movies and TV Shows dataset to understand content distribution, popular genres, country-wise production, and growth trends over time.
 
-## Questions Answered
+## 📂 Dataset
+Netflix Movies and TV Shows Dataset from Kaggle  
+Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
-- Which countries produce the most Netflix content?
-- Has Netflix shifted towards TV Shows?
-- Which genres are most popular?
-- Do movies and TV shows differ in ratings?
-- Are some genres longer than others?
+## 🎯 Objectives
+- Compare Movies vs TV Shows
+- Identify popular genres
+- Analyze country-wise content
+- Explore trends over time
 
-## Tools Used
-
+## 🛠 Tools Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 
-## Dataset
+## 📊 Key Insights
+- Netflix has more Movies than TV Shows.
+- Dramas and International Movies are dominant genres.
+- Content production has increased over time.
+- TV Shows are growing but Movies still lead.
 
-Netflix Movies and TV Shows (Kaggle)
-
-## Author
-
-Usaid Khan
-
-## Dataset Source
-Netflix Movies and TV Shows Dataset from Kaggle
+## ▶ How to Run
+1. Clone repository  
+2. Open Jupyter Notebook  
+3. Run all cells  
